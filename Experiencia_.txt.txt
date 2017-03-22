@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Experiencia</title>
+
+</head>
+
+<body>
+
+<header>
+      <img src="Logo/logo.svg" alt="Logo Barretero" width="100px" title="Logo Barreteros"><br>
+      <h1> <strong> Curriculum </strong></h1>
+      <h2> Saul Adrian Barretero Soto</h2>
+      <img src="Logo/perfil.jpeg" alt="Foto Perfil" width="150px"><br>
+      <ol>
+        <li> <a href="../index.html" >Inicio </a> </li>
+        <li> <a href="Educacion.html" >Educacion</a> </li>
+        <li> <a href="#">Experiencia</a> </li>
+      </ol>
+</header>
+
+<nav>
+
+  <h2> Experiencia</h2>
+  <h3> Video Sobre Habilidades e Intereses</h3>
+  <video src="Logo/video.mp4" controls="autoplay"   width="200px">
+    <source src=".ogv" type="video/ogg">
+    <source src=".webm" type="video/webm">
+  </video>
+
+  <h3> Hobbies y Actividades</h3>
+  <audio src="Logo/Hobbies.m4a" controls="autoplay">
+
+<footer>
+
+  </body>
+
+</html>

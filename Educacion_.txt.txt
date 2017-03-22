@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device=width, user-scalable:no">
+    <title> Educacion</title>
+
+</head>
+<body>
+
+<header>
+      <img src="Logo/logo.svg" alt="Logo Barretero" width="100px" title="Logo Barreteros"><br>
+      <h1> <strong> Curriculum </strong></h1>
+      <h2> Saul Adrian Barretero Soto</h2>
+      <img src="Logo/perfil.jpeg" alt="Foto Perfil" width="150px"><br>
+    <ol>
+      <li> <a href="../index.html" >Inicio </a> </li>
+      <li> <a href="#">Educacion</a> </li>
+      <li> <a href="Experiencia.html" >Experiencia</a> </li>
+          </ol>
+</header>
+
+<nav>
+
+  <h2> EDUCACION</h2>
+  <table border="1" cellpadding="0" Cellspacing="0">
+    <h2> Agregar Estudios</h2>
+    <form class="" action="Educacion.html" method="post">
+
+      <label for="Año">Año</label><br>
+      <select class="Año" name="Año">
+        <option value="1">1990</option>
+        <option value="2">1991</option>
+        <option value="3">1992</option>
+        <option value="4">1993</option>
+        <option value="5">1994</option>
+        <option value="6">1995</option>
+        <option value="7">1996</option>
+        <option value="8">1997</option>
+        <option value="9">1998</option>
+        <option value="10">1999</option>
+        <option value="11">2000</option>
+        <option value="12">2001</option>
+        <option value="13">2002</option>
+        <option value="14">2003</option>
+        <option value="15">2004</option>
+        <option value="16">2005</option>
+        <option value="17">2006</option>
+        <option value="18">2007</option>
+        <option value="19">2008</option>
+        <option value="20">2009</option>
+        <option value="21">2010</option>
+        <option value="22">2011</option>
+        <option value="23">2012</option>
+        <option value="24">2013</option>
+        <option value="25">2014</option>
+        <option value="26">2015</option>
+        <option value="27">2016</option>
+      </select><br>
+      <label for="Nombre">Nombre</label>
+      <input type="text" name="Nombre" required="Nombre" placeholder="Pedrito Fernandez" autofocus><br>
+      <label for="Institucion">Intitucion</label> <input type="text" name="Intitucion" rows="15" cols="15"><br>
+      <label for="Culmino">¿Culmino?</label><br>
+      <input type="Radio" name="Si" value="Si"><input type="Radio" name="No" value="No"><br>
+      <input type="submit" Value="Enviar">
+    </form>
+</nav>
+
+<footer>
+  <h1> <strong> Derechos Reservados</strong></h1>
+  <h3> Email: sbs-7@hotmail.com</h3>
+  <h3> Telefono: 55-676-101-4189</h3>
+  <h3> Direccion: Heroes de Chapultepec no. 404</h3>
+  <h3> <a href="https://www.facebook.com" target="_blank"><img src="Logo/FBlogo.png" alt="Facebook" width="30px"></a> Facebook: Saul Adrian Barretero Soto</h3>
+  <h3> <a href="https://www.instagram.com/" target="_blank"><img src="Logo/insta.jpeg" alt="Instagram" width="30px"></a>Instagram:sauladrian</h3>
+</footer>
+
+</body>
+
+</html>
